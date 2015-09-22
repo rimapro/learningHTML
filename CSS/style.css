@@ -1,0 +1,13 @@
+#header {
+  color: green;
+}
+.new {
+  color: yellow;
+}
+.link a:visited{
+  color:red;
+}
+body{
+  background-color: #99CCFF;
+
+}
